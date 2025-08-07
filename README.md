@@ -15,7 +15,7 @@
 
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Hua Cheng" src="https://i.pinimg.com/originals/f8/7b/0f/f87b0fbd1780078472c3ea3937bf9fa6.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
