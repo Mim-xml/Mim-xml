@@ -17,7 +17,7 @@
 
 <img alt="Hua Cheng" src="https://i.pinimg.com/originals/f8/7b/0f/f87b0fbd1780078472c3ea3937bf9fa6.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🍓 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
