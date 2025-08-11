@@ -4,9 +4,15 @@
 
 <p align="center">
   <em>
-    Hello, I am Mim a <b>third year</b> undergraduate from <a href="https://www.unan.edu.ni/"> <b>University Of UNAN-Managua</b>, CUR-Esteli ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://media.tenor.com/WILOSfQPu-AAAAAm/my-melodoy.webp" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://media.tenor.com/sUz9HU2JmzMAAAAm/cinnamoroll.webp" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+   Hello, I am Mim a <b>Programming student</b> from 
+<a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
+  <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
+</a>. <br>
+<b>a passionate self-learner</b> 
+<img src="https://media.tenor.com/WILOSfQPu-AAAAAm/my-melodoy.webp" width="30px"> 
+and a <b>Machine Learning Engineer</b>&nbsp;
+<img src="https://media.tenor.com/sUz9HU2JmzMAAAAm/cinnamoroll.webp" width="36px">&nbsp;<br>
+who is <b>obsessed</b> with <b>Data science</b> and always looking to find patterns of which are hidden in the data
   </em> 
   <br>
   <img src="https://media.tenor.com/t_nQNJ-L8KUAAAAm/sleepy-bunny-lovely.webp" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.tenor.com/JVresgLJNtkAAAAm/borboletas-butterflies.webp" width="50" />
