@@ -6,7 +6,7 @@
   <em>
    Hello, I am Mim a <b>Programming student</b> from 
 <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
-  <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
+  <b>Technological Center Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
 </a>. <br>
 <b>a passionate self-learner</b> 
 <img src="https://media.tenor.com/WILOSfQPu-AAAAAm/my-melodoy.webp" width="30px"> 
