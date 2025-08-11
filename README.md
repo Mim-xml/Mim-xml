@@ -15,7 +15,7 @@ and a <b>Machine Learning Engineer</b>&nbsp;
 who is <b>obsessed</b> with <b>Data science</b> and always looking to find patterns of which are hidden in the data
   </em> 
   <br>
-  <img src="https://media.tenor.com/t_nQNJ-L8KUAAAAm/sleepy-bunny-lovely.webp" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.tenor.com/JVresgLJNtkAAAAm/borboletas-butterflies.webp" width="50" />
+  <img src="https://media.tenor.com/t_nQNJ-L8KUAAAAm/sleepy-bunny-lovely.webp" width="50" /> <b><i align="center">Thought : "As a lazy hedgehog with coffee in hand, I believe that life is basically a marathon of naps and sips of liquid magic.”</i></b> <img src="https://media.tenor.com/JVresgLJNtkAAAAm/borboletas-butterflies.webp" width="50" />
 </p>
 <br><br>
 
