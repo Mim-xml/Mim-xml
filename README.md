@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://i.pinimg.com/1200x/e8/b3/22/e8b322f10201cf1f5bb6e130bad50acf.jpg)
+![Mim_xml Singh Banner](https://i.pinimg.com/1200x/e8/b3/22/e8b322f10201cf1f5bb6e130bad50acf.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mim</h2>
 
